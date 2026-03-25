@@ -31,9 +31,10 @@ Vercel – Deployment
 Getting Started (Local Development)
 1. Clone the repository
 git clone https://github.com/Ganga-halligerimath/Smart_bookmark_app.git
+
 cd smart-bookmark-app
 
-2. Install dependencies
+3. Install dependencies
 npm install
 # or
 yarn install
